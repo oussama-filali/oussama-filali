@@ -1,4 +1,5 @@
-![Header](./github-header-image (11).png)
+![github-header-image (11)](https://github.com/user-attachments/assets/7ef6a0a1-3616-4e1d-8c97-cbb59f7f52f0)
+
 # Bienvenue sur mon GitHub ! 👋
 
 Bonjour ! Je suis Oussama Halima-Filali, étudiant en 1ere année prépa Bachelor It asipirant a me spécialiser dans le devloppement web/web mobile à La Plateforme.
