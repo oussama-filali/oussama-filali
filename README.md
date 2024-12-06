@@ -32,6 +32,7 @@ Vous pouvez me trouver à ces endroits :
 
 - Email : (mailto:oussama.halima-filali@laplateforme.io)
 - LinkedIn : (https://www.linkedin.com/in/halima-filali-oussama-780a32178/)
+- bento : (https://bento.me/oussama-filali)
 
 ## ⚡ Conclusion
 
