@@ -10,7 +10,7 @@ Ce dépôt est un espace où je partage mes projets, pensées et découvertes. N
 - Étudiant(e) en 1ere année prépa Bachelor It asipirant a me spécialiser dans le devloppement web/web mobile à La Plateforme
 - 🤖 Passionné(e) par la programmation, le développement web/web mobile
 - 🎨 Amoureux(se) du design et de l'expérience utilisateur
-- 🌍 Actuellement en train d'apprendre [nouvelles compétences ou technologies que vous souhaitez acquérir].
+- 🌍 Actuellement en train d'apprendre les nouveaux outils de programmation et les bonnes pratiques d'un devloppeur web.
 
 ## 📂 Projets
 
