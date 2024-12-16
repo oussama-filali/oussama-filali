@@ -18,6 +18,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 1. **(https://github.com/oussama-filali/C-Users-Hp-Desktop-site-internet)** 
 2. **(https://github.com/oussama-filali/tictactoe-interface-graphique/blob/main/import%20tkinter%20as%20tk.py)**
+3. **(https://github.com/oussama-filali/site-de-cuisine-)**
+4. **(https://github.com/oussama-filali/portofolio)**
 
 ## 💻 Technologies
 
