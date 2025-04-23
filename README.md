@@ -35,7 +35,7 @@ Je travaille principalement avec les technologies suivantes :
 
 Vous pouvez me trouver à ces endroits :
 
-- Email : (mailto:oussama.halima-filali@laplateforme.io)
+- Email : (mailto:oussama.halima-filali.pro@gmail.com)
 - LinkedIn : (https://www.linkedin.com/in/halima-filali-oussama-780a32178/)
 - bento : (https://bento.me/oussama-filali)
 
