@@ -20,14 +20,17 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 2. **(https://github.com/oussama-filali/tictactoe-interface-graphique/blob/main/import%20tkinter%20as%20tk.py)**
 3. **(https://github.com/oussama-filali/site-de-cuisine-)**
 4. **(https://github.com/oussama-filali/portofolio)**
+5. **(https://oussama-filali.github.io/My-Portfolio)**
+6. **(https://oussama-filali.github.io/Cinetech/)**
+   
 
 ## 💻 Technologies
 
 Je travaille principalement avec les technologies suivantes :
 
-- Langages de programmation : `Python`, `HTML`, `CSS`
-- Outils : `Git`, `GitHub`
-
+- Langages de programmation : `Python`, `HTML`, `CSS`, `javascript` , `php`
+- Outils : `Git`, `GitHub` , `Figma` , `Canva`
+  
 ## 📫 Contacter
 
 Vous pouvez me trouver à ces endroits :
