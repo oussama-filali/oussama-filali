@@ -20,9 +20,9 @@
 
 | Projet | Description | Stack |
 |-------|-------------|------|
-| [**RafiQ**](https://github.com/tonlien) | Plateforme d'entraide locale qui connecte bénévoles et associations | React • Supabase • TailwindCSS |
+| [**RafiQ**](https://github.com/oussama-filali/RafiQ) | Plateforme d'entraide locale qui connecte bénévoles et associations | React • Supabase • TailwindCSS |
 | **Match Ton Alternance** | Algorithme de matching type Tinder pour étudiants/entreprises | React • PHP API • Supabase |
-| [**DesignEase API**](https://github.com/tonlien) | Générateur de composants UI pour accélérer le prototypage | Node • Express • EJS |
+| [**DesignEase API**]() | Générateur de composants UI pour accélérer le prototypage | Node • Express • EJS |
 
 ---
 
