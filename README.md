@@ -18,17 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=oussama-filali&label=Vues%20du%20profil&color=00D4FF&style=for-the-badge" />
 </p>
 
----
-
-## 🌍 Mission & Valeurs
+<img src="assets/headers/01-mission.svg" alt="01 — Mission & Valeurs" width="100%" />
 
 > 💡 **Mission :** Développer des solutions numériques qui facilitent l'accès à l'information et connectent les personnes entre elles.
 >
 > 🤝 **Valeurs :** Collaboration • Accessibilité • Innovation • Impact Social
 
----
-
-## 🚀 Projets Clés
+<img src="assets/headers/02-projets.svg" alt="02 — Projets Clés" width="100%" />
 
 > 🔥 Mes projets IA les plus récents, en développement actif.
 
@@ -43,15 +39,13 @@
 | [**Match Ton Alternance**](https://github.com/oussama-filali/Match-Ton-Alternance) | Algorithme de matching type Tinder pour étudiants/entreprises | `Python` · `React` · `Supabase` |
 | [**DesignEase API**](https://github.com/oussama-filali/designease-api) | Générateur de composants UI pour accélérer le prototypage | `Node.js` · `Express` · `TypeScript` |
 
-### 🔬 Recherche & Expérimentation
+<img src="assets/headers/03-recherche.svg" alt="03 — Recherche & Expérimentation" width="100%" />
 
 | Projet | Description | Stack |
 |-------|-------------|------|
 | 🌿 [**Langage Harmonique**](https://github.com/oussama-filali/langage-harmonique) | Prototype d'un mini-langage déclaratif (`.harm`) fondé sur le nombre d'or (φ), Fibonacci et l'angle d'or, avec son interpréteur maison : parser, évaluateur d'expressions, événements (`on hover => scale φ`) traduits en animations DOM | `Language Design` · `JavaScript` · `Interpréteur` |
 
----
-
-## 🧠 Ma façon de concevoir
+<img src="assets/headers/04-conception.svg" alt="04 — Ma façon de concevoir" width="100%" />
 
 Je ne me contente pas d'assembler des libs — je **conçois** de bout en bout : de la base de données à l'expérience ressentie par l'utilisateur.
 
@@ -63,9 +57,7 @@ Je ne me contente pas d'assembler des libs — je **conçois** de bout en bout :
 - ⚙️ **Config & déploiement** — Projets **containerisés (Docker)** et déployés en continu (Render), variables d'environnement propres, API REST documentées (Swagger).
 - 🔬 **Recherche & réflexion** — Je descends sous les frameworks quand la curiosité l'exige : conception d'un mini-langage et de son interpréteur, expérimentations autour des proportions harmoniques (φ, Fibonacci) appliquées au design.
 
----
-
-## 🛠️ Stack Technique
+<img src="assets/headers/05-stack.svg" alt="05 — Stack Technique" width="100%" />
 
 <p align="center">
   <strong>Langages</strong><br/>
@@ -120,9 +112,7 @@ Je ne me contente pas d'assembler des libs — je **conçois** de bout en bout :
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
----
-
-## 📊 Statistiques GitHub
+<img src="assets/headers/06-stats.svg" alt="06 — Statistiques" width="100%" />
 
 <!-- Les cartes github-readme-stats (instance publique Vercel) tombaient en 402/503 : retirées.
      Pour les rétablir de façon fiable : self-héberger github-readme-stats sur son propre Vercel. -->
@@ -130,18 +120,16 @@ Je ne me contente pas d'assembler des libs — je **conçois** de bout en bout :
   <img src="https://streak-stats.demolab.com?user=oussama-filali&theme=radical&hide_border=true&locale=fr" height="180">
 </p>
 
----
+<img src="assets/headers/07-contributions.svg" alt="07 — Contributions" width="100%" />
 
-## 🐍 Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussama-filali/oussama-filali/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/oussama-filali/oussama-filali/output/github-contribution-grid-snake.svg" alt="Snake de mes contributions" width="100%" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussama-filali/oussama-filali/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/oussama-filali/oussama-filali/output/github-contribution-grid-snake.svg" alt="Snake de mes contributions" />
-</picture>
-
----
-
-## 🎮 Fun Zone
+<img src="assets/headers/08-fun.svg" alt="08 — Fun Zone" width="100%" />
 
 ```javascript
 while (life.isLearning) {
@@ -151,9 +139,7 @@ while (life.isLearning) {
 }
 ```
 
----
-
-## ⚡ Conclusion
+<img src="assets/headers/09-conclusion.svg" alt="09 — Conclusion" width="100%" />
 
 Merci de visiter mon GitHub ! J'aspire à enrichir mes connaissances et à collaborer sur des projets à fort impact. N'hésitez pas à me contacter — construisons quelque chose d'utile ensemble. 🚀
 
