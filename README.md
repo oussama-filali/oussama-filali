@@ -124,13 +124,10 @@ Je ne me contente pas d'assembler des libs — je **conçois** de bout en bout :
 
 ## 📊 Statistiques GitHub
 
+<!-- Les cartes github-readme-stats (instance publique Vercel) tombaient en 402/503 : retirées.
+     Pour les rétablir de façon fiable : self-héberger github-readme-stats sur son propre Vercel. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-filali&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
-  <img src="https://streak-stats.demolab.com?user=oussama-filali&theme=radical&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-filali&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165">
+  <img src="https://streak-stats.demolab.com?user=oussama-filali&theme=radical&hide_border=true&locale=fr" height="180">
 </p>
 
 ---
