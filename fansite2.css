@@ -1,0 +1,250 @@
+/* General Reset */
+
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+
+}
+
+
+
+body {
+
+  font-family: 'Arial', sans-serif;
+
+  line-height: 1.6;
+
+  color: #333;
+
+  background-color: #0e0d0d;
+
+}
+
+
+
+/* Hero Section */
+
+.hero {
+
+  background: url('Equipe\ Du\ Maroc.jpg') no-repeat center/cover;
+  
+
+  height: auto;
+  text-align: center;
+  padding: 100px 0;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+
+
+  color: rgb(7, 7, 7);
+  img {
+    width: auto; /* ou la largeur souhaitée, par exemple, 300px */
+    height: auto; /* ou la hauteur souhaitée, par exemple, 200px */
+    max-width: 100%; /* empêche l'image de dépasser la largeur de son conteneur */
+    max-height: 100%; /* empêche l'image de dépasser la hauteur */
+  }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+.hero-content h1 {
+
+  font-size: 2rem;
+  color: rgb(192, 152, 51);
+  text-align: center;
+
+}
+
+
+
+.hero-content p {
+
+  font-size: 1.5rem;
+  color: rgb(192, 152, 51);
+  text-align: center;
+
+
+}
+
+
+.btn {
+
+  background: rgb(192, 152, 51);
+  text-align: center;
+  align-items: center;
+  font-size: 1.5rem;
+  background-position: center;
+
+  color: rgb(30, 29, 29);
+
+  padding: 10px 20px;
+
+  border-radius: 5px;
+
+  text-decoration: none;
+
+  margin-top: 20px;
+  font-weight: bold;
+
+              
+  
+  }
+/* btn */
+.btn{
+  position: center;
+
+}
+
+
+
+/* Navbar */
+
+.navbar {
+
+  background: rgb(192, 152, 51);
+
+  color: rgb(65, 45, 45);
+
+  padding: 10px 0;
+
+}
+
+
+
+.navbar ul {
+
+  list-style: none;
+
+  display: flex;
+
+  justify-content: center;
+  color: rgb(208, 177, 98);
+
+}
+
+
+
+.navbar li {
+
+  margin: 0 15px;
+
+}
+
+
+
+.navbar a {
+
+  color: rgb(6, 6, 6);
+
+  text-decoration: none;
+
+}
+
+
+
+/* Sections */
+
+section {
+
+  padding: 40px 20px;
+
+  text-align: center;
+
+}
+
+
+
+h2 {
+
+  margin-bottom: 20px;
+
+  color: rgb(192, 152, 51);
+
+}
+
+
+
+/* Galerie */
+
+.gallery-grid {
+
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+  gap: 20px;
+  justify-content: center;
+
+  img {
+    width: auto; /* ou la largeur souhaitée, par exemple, 300px */
+    height: auto; /* ou la hauteur souhaitée, par exemple, 200px */
+    max-width: 100%; /* empêche l'image de dépasser la largeur de son conteneur */
+    max-height: 100%; /* empêche l'image de dépasser la hauteur */
+  }
+
+}
+
+
+
+.gallery-grid img {
+
+  width: 100%;
+
+  border-radius: 8px;
+
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+}
+.biographie {
+  padding: 20px;
+}
+
+
+/* Footer */
+
+.footer {
+
+  background: #333;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 20px 0;
+
+}
+
+
+
+.footer a {
+
+  color: rgb(192, 152, 51);
+
+  text-decoration: none;
+
+}
+@media (max-width: 768px) {
+  /* Règles de styles pour les écrans de moins de 768px de largeur */
+  body {
+    font-size: 16px;
+  }
+  
+  /* et ainsi de suite... */
+}
